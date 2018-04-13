@@ -1,0 +1,6 @@
+{
+  "ignore": [
+    "./warnings.json",
+	"./prefixes.json"
+  ]
+}

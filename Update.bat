@@ -1,0 +1,1 @@
+Cd\Users\Diyar's PC\Desktop\Bit
